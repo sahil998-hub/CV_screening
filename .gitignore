@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+*.log
+
+# --- Virtual envs ---
+env/
+venv/
+.venv/
+ENV/
+
+# --- Editors/OS ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Optional: large data files ---
+# If your dataset is huge (>100 MB), uncomment the next line to avoid push errors.
+# UpdatedResumeDataSet.csv
